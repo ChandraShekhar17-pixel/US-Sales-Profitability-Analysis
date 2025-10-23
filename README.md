@@ -2,7 +2,7 @@
 
 This is a complete data analysis project performed in a Python Jupyter Notebook. The project involves cleaning, transforming, and analyzing a raw sales CSV file to uncover key insights into sales performance, profitability, and logistics.
 
-All analysis, data cleaning, and visualizations are contained in the US_Sales_Analysis.ipynb notebook.
+All analysis, data cleaning, and visualizations are contained in the US_Sales_Analysis.ipynb notebook and data is being taken from Kaggle.
 
 ## Key Business Insights Discovered:
 
