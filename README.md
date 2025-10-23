@@ -38,8 +38,6 @@ Ensure all files are in one folder:
 
 * US_Regional_Sales_Data.csv
 
-
-
-
-
-Open the US_Sales_Analysis.ipynb notebook and run the cells to see the complete analysis. The notebook is already saved with all plots and outputs visible.
+## Authors
+- Keshav Yadav
+- Chandra Shekhar
